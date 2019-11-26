@@ -25,6 +25,6 @@ for k1 in n1:
     i3 += 1
     if k1 == b:
         n1[-1] = b
-        n1[i3] = b1 # 最大换位
+        n1[i3] = b1 #最大换位
         break 
 print(*n1)
