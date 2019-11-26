@@ -1,7 +1,7 @@
 #http://acm.zzuli.edu.cn/problem.php?id=1120&csrf=diY6KdH2vlgl0dsIzzMJOQ80TljSt2kO
 n = int(input())
 n1 = [int(i1) for i1 in input().split()]
-a = 999999
+a = 9999999
 b = -999999 
 for i in n1:
     if i > b:
@@ -25,6 +25,6 @@ for k1 in n1:
     i3 += 1
     if k1 == b:
         n1[-1] = b
-        n1[i3] = b1 #最大换位
-        break
+        n1[i3] = b1 # 最大换位
+        break 
 print(*n1)
