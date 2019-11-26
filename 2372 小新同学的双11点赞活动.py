@@ -1,3 +1,4 @@
+#http://acm.zzuli.edu.cn/problem.php?id=2372&csrf=D1KEJ2XFN2EYSEFTfWuWHm2jU8RuG3Fe
 n = int(input())
 for i in range(n):
     k,a,b = [int(i1) for i1 in input().split()]
