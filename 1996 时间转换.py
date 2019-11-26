@@ -1,3 +1,4 @@
+#http://acm.zzuli.edu.cn/problem.php?id=1996&csrf=jvrZrTaJUgCluGZJqWZU93OZhAJX4wCx
 t = int(input())
 a = t / 3600
 b = t % 3600 /60
