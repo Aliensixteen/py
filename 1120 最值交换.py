@@ -1,3 +1,4 @@
+#http://acm.zzuli.edu.cn/problem.php?id=1120&csrf=diY6KdH2vlgl0dsIzzMJOQ80TljSt2kO
 n = int(input())
 n1 = [int(i1) for i1 in input().split()]
 a = 999999
