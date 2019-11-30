@@ -1,3 +1,4 @@
+#http://acm.zzuli.edu.cn/problem.php?id=1106
 def hw(x):
     x1 = 0
     while x != 0:
