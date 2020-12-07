@@ -9,3 +9,5 @@ def daoxu(x):
 n = int(input())
 n1 = daoxu(n)
 print('%d'%(n+n1))
+# 测试
+print('%d'%(n+n1))
