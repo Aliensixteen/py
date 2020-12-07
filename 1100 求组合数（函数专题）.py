@@ -12,3 +12,5 @@ m , k = [int(i) for i in input().split()]
 num = int()
 num = cj(m) / (cj(k) * (cj(m-k)))
 print('%d'%num)
+# 测试
+print('%d'%num)
